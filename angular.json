@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Typing"
+    }
+  },
+  "defaultProject": "Typing",
+  "cli": {
+    "analytics": false
+  }
 }
